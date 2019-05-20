@@ -1,1 +1,3 @@
 print('So what?')
+
+input()
